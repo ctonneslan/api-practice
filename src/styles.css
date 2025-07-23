@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 2rem;
+}
+input {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+}
+#gif-container img {
+    max-width: 300px;
+    margin-top: 1rem;
+}
+.error {
+    color: red;
+    font-weight: bold;
+}
